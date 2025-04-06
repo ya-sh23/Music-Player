@@ -14,7 +14,8 @@
   flex-wrap: wrap;
 }
 .music-player {
-  background: #ffe0e5;
+  /* background: #ffe0e5; */
+  background:#d3c34c;
   /* background-image: url('./media/maxresdefault.jpg');
     background-size: cover; 
     background-position: center;
@@ -36,6 +37,7 @@ nav .circle {
   line-height: 40px;
   background: #fff;
   color: #f53192;
+
   box-shadow: 0 5px 10px rgba(255, 26, 26, 0.22);
 }
 
